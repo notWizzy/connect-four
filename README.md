@@ -1,23 +1,25 @@
 # Game Controls
 ## Selecting Algorithm:
-
 Choose between Alpha-Beta Pruning and Minimax using the radio buttons at the top of the window.
-Setting Search Depth:
 
+## Setting Search Depth:
 Use the slider labeled "Search Depth" to set the AI's difficulty level:
 1: Easiest AI, quick responses.
 4: Hardest AI, more strategic and longer computation times.
-Making a Move:
 
+## Making a Move:
 Click on the desired column in the grid to drop your disc. The disc will occupy the lowest available space in that column.
 
 ## Viewing Move Logs:
 The log area at the bottom displays each move made by both the user and AI, along with computation time and nodes explored.
 
 ## Control Buttons:
-### New Game: Starts a completely new game and clears the move log.
-### Restart Current Game: Resets the board without clearing the existing move log.
-### Exit: Closes the application.
+### New Game:
+Starts a completely new game and clears the move log.
+### Restart Current Game:
+Resets the board without clearing the existing move log.
+### Exit:
+Closes the application.
 
 ## Gameplay
 Objective: Connect four of your discs in a row horizontally, vertically, or diagonally before the AI does.
