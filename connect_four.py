@@ -1,12 +1,3 @@
-# UNC Charlotte
-# ITCS 5153 - Applied AI - Fall 2024
-# Lab 3
-# Adversarial Search / Game Playing
-# This module implements Alpha-Beta Pruning and Minimax algorithms for the Connect Four game from the games.py module provided to us from the repository.
-# Student ID: 801232155
-
-
-
 # Import the required libraries
 import tkinter as tk # Import the Tkinter library for the GUI, learned from online resources
 from tkinter import ttk # Import the ttk module from tkinter for themed widgets, learned from online resources.
